@@ -1,7 +1,8 @@
 name: 'moosara-codelevel'
 description: 'Greet someone and record the time'
-icon: 'aperture'
-color: 'green'
+branding:
+  icon: 'aperture'
+  color: 'green'
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
