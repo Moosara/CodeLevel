@@ -1,0 +1,24 @@
+{
+  "name": "CodeLevel",
+  "version": "0.1.0",
+  "description": "A Github action to analyze source files and make recommendations to improve craftsmanship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moosara/CodeLevel.git"
+  },
+  "keywords": [],
+  "author": "Moosara LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moosara/CodeLevel/issues"
+  },
+  "homepage": "https://github.com/Moosara/CodeLevel#readme",
+  "dependencies": {
+    "@actions/core": "^1.8.0",
+    "@actions/github": "^5.0.1"
+  }
+}
